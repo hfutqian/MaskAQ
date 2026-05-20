@@ -1,5 +1,5 @@
 
-# Selective Coupling of Decoupled Informative Regions: Masked Attention Alignment for Data-Free Quantization of Vision Transformers [ICML 2026]
+## Selective Coupling of Decoupled Informative Regions: Masked Attention Alignment for Data-Free Quantization of Vision Transformers [ICML 2026]
 This repository is the official code for the paper "Selective Coupling of Decoupled Informative Regions: Masked Attention Alignment for Data-Free Quantization of Vision Transformers" by Biao Qian, Yang Wang, Yong Wu and Jungong Han.
 
 
