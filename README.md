@@ -25,3 +25,16 @@ To quantize the pre-trained DeiT-S on ImageNet to 3 bits:
     bash train.sh imagenet_deit_s_16_224.hocon 1234 0.001 3 3 ./gen_images_raw multi_step [50,100] lsq
 
 
+
+## Citation
+If you find the project codes useful for your research, please consider citing
+```
+@article{qian2026selective,
+  title={Selective Coupling of Decoupled Informative Regions: Masked Attention Alignment for Data-Free Quantization of Vision Transformers},
+  author={Qian, Biao and Wang, Yang and Wu, Yong and Han, Jungong},
+  journal={arXiv preprint arXiv:2606.04373},
+  year={2026}
+}
+```
+
+
