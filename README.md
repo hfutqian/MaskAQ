@@ -20,7 +20,7 @@ Set the "dataPath" in "imagenet_deit_s_16_224.hocon" as the path root of your Im
 
 ### Training
 
-To quantize the pre-trained DeiT-S on ImageNet to 3 bits:
+For example, to quantize the pre-trained DeiT-S on ImageNet to 3 bits, please run:
 
     bash train.sh imagenet_deit_s_16_224.hocon 1234 0.001 3 3 ./gen_images_raw multi_step [50,100] lsq
 
