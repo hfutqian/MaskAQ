@@ -25,6 +25,10 @@ For example, to quantize the pre-trained DeiT-S on ImageNet to 3 bits, please ru
     bash train.sh imagenet_deit_s_16_224.hocon 1234 0.001 3 3 ./gen_images_raw multi_step [50,100] lsq
 
 
+### Results
+
+![results](https://github.com/hfutqian/MaskAQ/blob/main/images/results.png)
+
 
 ## Citation
 If you find the project codes useful for your research, please consider citing
