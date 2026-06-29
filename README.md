@@ -31,7 +31,7 @@ For example, to quantize the pre-trained DeiT-S on ImageNet to 3 bits, please ru
 
 
 ## Citation
-This repository will be continuously updated and maintained. If you find the project codes useful for your research, please consider citing
+This repository will be progressively updated and maintained. If you find the project codes useful for your research, please consider citing
 ```
 @article{qian2026selective,
   title={Selective Coupling of Decoupled Informative Regions: Masked Attention Alignment for Data-Free Quantization of Vision Transformers},
